@@ -21,15 +21,6 @@ It is a type of substitution cipher in which each letter in the plaintext is rep
 
 
 
-
-
-
-| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
-| :--- | :--- | :--- |:--- | :--- | :--- |:--- | :--- | :--- |:--- | :--- | :--- | | :--- | :--- | :--- |:--- | :--- | :--- |:--- | :--- | :--- |:--- | :--- | :--- | :--- | :--- |
-| X | Y | Z | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W |
-
-
-
     Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
     Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 
@@ -42,4 +33,21 @@ Unicode is a standard that precisely defines a character set as well as a small 
 Shift Ciphers work by using the modulo operator to encrypt and decrypt messages. The Shift Cipher has a key K, which is an integer from 0 to 25. We will only share this key with people that we want to see our message.
 ## Screenshots
 
+### Encoding Using Caesar Cipher
 <img src = "Screenshots/caesarcipherEncoding.png">
+
+### Decoding Using Caesar Cipher
+<img src = "Screenshots/caesarcipherDecoding.png">
+
+### Encoding Using Unicode Exchange System
+<img src = "Screenshots/unicodeEncoding.png">
+
+### Decoding Using Unicode Exchange System
+<img src = "Screenshots/unicodeDecoding.png">
+
+### Encoding Using Custom Shift Cipher
+<img src = "Screenshots/customEncoding.png">
+
+### Encoding Using Custom Shift Cipher
+<img src = "Screenshots/unicodeDecoding.png">
+
